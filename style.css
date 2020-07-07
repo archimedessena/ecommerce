@@ -1,0 +1,28 @@
+.navbar-brand{
+    font-style: italic;
+}
+.navbar-nav{
+    padding-left: 300px;
+    font-size: small;
+}
+.md-form{
+    padding-right: 50px;
+   
+    
+}
+
+.sign{
+    margin-right: 20px;
+    font-size: small;
+}
+.cart{
+    margin-right: 100px;
+    font-size: small;
+}
+.justify-content-center{
+    margin-left: 450px;
+}
+.card{
+    padding-right: 15px;
+    background-color: white;
+}
