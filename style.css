@@ -3,14 +3,17 @@
 }
 .navbar-nav{
     background-color: transparent;
-    padding-left: 300px;
+    padding-left: 50px;
     font-size: small;
     color: white;
 }
 .md-form{
-    padding-right: 50px;
+    padding-right: 100px;
    
     
+}
+.form-control{
+    width: 350px;
 }
 
 .sign{
